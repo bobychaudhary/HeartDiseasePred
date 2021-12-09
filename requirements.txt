@@ -20,7 +20,7 @@ comtypes==1.1.9
 
 
 
-conda-verify==3.4.2
+
 contextlib2==0.6.0.post1
 
 cycler==0.10.0
